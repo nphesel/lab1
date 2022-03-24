@@ -21,6 +21,15 @@ h1 {
     padding-left:10px;
 }
 
+footer {
+    font-family: Futura, Trebuchet MS;
+    font-weight: normal;
+    color: #f01717; 
+    font-size: 10px;
+    padding-top: 20px;
+}
+
+
 p {
     padding-left:20px;
 }
