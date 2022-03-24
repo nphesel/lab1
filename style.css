@@ -3,7 +3,7 @@ header {
     font-weight: bold condensed;
     color: #AC2B37; 
     font-size: 25px;
-    padding:30x;
+    padding-left:30x;
 }
 
 body {
@@ -18,11 +18,11 @@ h1 {
     font-weight: bold condensed;
     color: #000000; 
     font-size: 20px;
-    padding:3px;
+    padding-left:3px;
 }
 
 p {
-    padding:30px;
+    padding-left:30px;
 }
 
 #content {
